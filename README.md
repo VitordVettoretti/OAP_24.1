@@ -3,4 +3,4 @@
 Tecnologias utilizadas
   - Assembly for MIPS
 
-Abordagens
+Abordagens.
